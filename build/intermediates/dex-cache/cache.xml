@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b0ac83f87f9749e119edae031b2034faf4987211\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_bb667456c4c138a2f705fdb70d5b227012b899ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\Desktop\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_705b11fbdc642afb6e8f675cb54a9e0d3b90d337\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\8f24142b21631510876daf114f8f636c957c05a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_36a600dc886e604068d7525242b8be08ad206996.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="59755f6f758804c90c257446448b785446ee64fe">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d9da23a3ab4f1cdef1558f05d267eb7c5df6b93a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\b44e4226cfe778be8a79ef2fdedf8b6d80a47cb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_0092453701f89baf36576e27bdc8246dc19c2f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\Desktop\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley_705b11fbdc642afb6e8f675cb54a9e0d3b90d337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_f524dd801dfad34fc842435ac412ebd5be5df959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\.android\build-cache\5e0c25c46219108ec831a8b11b24585855179336\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="C:\Users\lenovo\Desktop\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes_fff2e6bfb22bcfb58af77d15f9c15a9477d37ea4.jar" />
+    </item>
+
+</items>
